@@ -18,3 +18,4 @@ exports.help = {
   description: 'bet4',
   usage: 'komut'
 };
+beT4 sex partnerim :DD
